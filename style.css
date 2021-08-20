@@ -1,0 +1,109 @@
+
+.conteudo{
+    text-align:center;
+}
+.conteudo table{
+    margin: 0 auto;
+}
+.numero{
+    font-size: 8px;
+    float: left;
+}
+.elemento{
+    font-size: 18px;
+    font-weight: bold;
+}
+.nome{
+    font-size: 12px;
+    float: left;
+}
+.peso{
+    font-size: 8px;
+    float: left;
+}
+
+.h1{
+    color: crimson;
+}
+
+
+
+body{
+    background-color:rgba(14, 14, 14, 0.932)
+    
+}
+.gris{
+    background-color: rgb(158, 95, 218);
+}
+.gris:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.lilas{
+    background-color: rgb(198, 162, 255);
+}
+.lilas:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.verde{
+    background-color: rgb(53, 109, 53);
+}
+.verde:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.roxo{
+    background-color: rgb(149, 75, 247);
+}
+.roxo:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.azulclaro{
+    background-color: rgb(140, 255, 255);
+}
+.azulclaro:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.azul{
+    background-color: cadetblue;
+}
+.azul:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.laranja{
+    background-color:rgb(245, 120, 48); ;
+}
+
+.laranja:hover{
+    background-color: rgb(10, 207, 92);
+    }
+
+.amarelo{
+    background-color: rgb(225, 228, 55);
+    }
+
+.amarelo:hover{
+background-color: rgb(10, 207, 92);
+}
+
+
+
+.vermelho{
+    background-color: rgb(248, 59, 59);
+}
+
+.vermelho:hover{
+    background-color: rgb(10, 207, 92);
+
+}
+
+
+
+
+
+
+
